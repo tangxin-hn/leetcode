@@ -3,9 +3,7 @@ import java.util.Arrays;
 public class temptest {
         public static void main(String[] args)
         {
-            char[] cs={'1','.','2','1','.'};
-            Arrays.sort(cs);
-            for (char c:cs)
-             System.out.println(c);
+            boolean[] c=new boolean[2];
+            System.out.println(c[1]);
         }
 }
