@@ -1,4 +1,4 @@
-package P71_p80;
+package p71_p80;
 
 public class P75 {
     public static void main(String[] args) {

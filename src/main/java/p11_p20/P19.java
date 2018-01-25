@@ -1,5 +1,5 @@
 package p11_p20;
-
+import mytool.*;
 public class P19 {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         int count=0;

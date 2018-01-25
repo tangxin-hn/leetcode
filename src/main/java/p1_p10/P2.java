@@ -1,4 +1,5 @@
 package p1_p10;
+import mytool.*;
 
 public class P2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

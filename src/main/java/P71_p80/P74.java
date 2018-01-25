@@ -1,4 +1,4 @@
-package P71_p80;
+package p71_p80;
 
 public class P74 {
     public boolean searchMatrix(int[][] matrix, int target) {

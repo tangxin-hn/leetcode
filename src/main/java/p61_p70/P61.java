@@ -1,11 +1,8 @@
 package p61_p70;
 
+import mytool.ListNode;
+
 public class P61 {
-    public class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) { val = x; }
-    }
 
     public ListNode rotateRight(ListNode head, int k) {
         if (head==null || head.next==null ||k==0)

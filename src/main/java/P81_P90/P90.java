@@ -1,6 +1,5 @@
-package P81_P90;
+package p81_p90;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class P90 {

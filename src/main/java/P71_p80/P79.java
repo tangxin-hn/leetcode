@@ -1,4 +1,4 @@
-package P71_p80;
+package p71_p80;
 
 public class P79 {
     public boolean exist(char[][] board, String word) {

@@ -1,5 +1,7 @@
 package p21_p30;
 
+import mytool.ListNode;
+
 public class P21 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1==null)

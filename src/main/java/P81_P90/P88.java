@@ -1,4 +1,4 @@
-package P81_P90;
+package p81_p90;
 
 public class P88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

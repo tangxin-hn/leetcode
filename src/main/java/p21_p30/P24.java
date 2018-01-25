@@ -1,5 +1,7 @@
 package p21_p30;
 
+import mytool.ListNode;
+
 public class P24 {
     public ListNode swapPairs(ListNode head) {
         if (head==null)
